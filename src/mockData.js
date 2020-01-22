@@ -1,0 +1,180 @@
+export const currentUser = {
+  id: 2239,
+  name: 'Candy Walnut',
+  profile_image: 'https://via.placeholder.com/30x30',
+};
+
+export const currentLivecasts = [
+  {
+    id: '1213',
+    title: 'Hello There',
+    status: 1,
+    created_at: 1573167969,
+    duration: 30599,
+    image: 'https://via.placeholder.com/200x320',
+    author: {
+      id: 2234,
+      name: 'Laura Palmer',
+      profile_image: 'https://via.placeholder.com/30x30',
+    },
+  },
+  {
+    id: '1449',
+    title: 'Watch my Movie',
+    status: 1,
+    created_at: 1573167950,
+    duration: 30599,
+    image: 'https://via.placeholder.com/200x320',
+    author: {
+      id: 2234,
+      name: 'Rachel Richardson',
+      profile_image: 'https://via.placeholder.com/30x30',
+    },
+  },
+  {
+    id: '2215',
+    title: 'I Started This Stream, Now You Must Watch It.',
+    status: 1,
+    created_at: 1573167921,
+    duration: 30599,
+    image: 'https://via.placeholder.com/200x320',
+    author: {
+      id: 2234,
+      name: 'Darren Hartman',
+      profile_image: 'https://via.placeholder.com/30x30',
+    },
+  },
+  {
+    id: '2285',
+    title: 'I Started This Stream, Now You Must Watch It.',
+    status: 1,
+    created_at: 1573167921,
+    duration: 30599,
+    image: 'https://via.placeholder.com/200x320',
+    author: {
+      id: 2234,
+      name: 'Darren Hartman',
+      profile_image: 'https://via.placeholder.com/30x30',
+    },
+  }
+];
+
+export const endedLivecasts = [
+  {
+    id: '2213',
+    title: 'The best livecast',
+    status: 0,
+    created_at: 1573167969,
+    duration: 30599,
+    image: 'https://via.placeholder.com/200x320',
+    author: {
+      id: 2234,
+      name: 'Bertie Shaw',
+      profile_image: 'https://via.placeholder.com/30x30',
+    },
+  },
+  {
+    id: '2219',
+    title: 'The Live cast with the very longest title',
+    status: 0,
+    created_at: 1573167950,
+    duration: 30599,
+    image: 'https://via.placeholder.com/200x320',
+    author: {
+      id: 2234,
+      name: 'Adam Adamskiy',
+      profile_image: 'https://via.placeholder.com/30x30',
+    },
+  },
+  {
+    id: '2215',
+    title: 'The Worst livecast',
+    status: 0,
+    created_at: 1573167921,
+    duration: 30599,
+    image: 'https://via.placeholder.com/200x320',
+    author: {
+      id: 2234,
+      name: 'Carolina Bellwether',
+      profile_image: 'https://via.placeholder.com/30x30',
+    },
+  },
+  {
+    id: '2293',
+    title: 'The best livecast',
+    status: 0,
+    created_at: 1573167969,
+    duration: 30599,
+    image: 'https://via.placeholder.com/200x320',
+    author: {
+      id: 2234,
+      name: 'Bertie Shaw',
+      profile_image: 'https://via.placeholder.com/30x30',
+    },
+  },
+  {
+    id: '2299',
+    title: 'The Live cast with the very longest title',
+    status: 0,
+    created_at: 1573167950,
+    duration: 30599,
+    image: 'https://via.placeholder.com/200x320',
+    author: {
+      id: 2234,
+      name: 'Adam Adamskiy',
+      profile_image: 'https://via.placeholder.com/30x30',
+    },
+  },
+  {
+    id: '2214',
+    title: 'The Worst livecast',
+    status: 0,
+    created_at: 1573167921,
+    duration: 30599,
+    image: 'https://via.placeholder.com/200x320',
+    author: {
+      id: 2234,
+      name: 'Carolina Bellwether',
+      profile_image: 'https://via.placeholder.com/30x30',
+    },
+  },
+  {
+    id: '3213',
+    title: 'The best livecast',
+    status: 0,
+    created_at: 1573167969,
+    duration: 30599,
+    image: 'https://via.placeholder.com/200x320',
+    author: {
+      id: 2234,
+      name: 'Bertie Shaw',
+      profile_image: 'https://via.placeholder.com/30x30',
+    },
+  },
+  {
+    id: '2019',
+    title: 'The Live cast with the very longest title',
+    status: 0,
+    created_at: 1573167950,
+    duration: 30599,
+    image: 'https://via.placeholder.com/200x320',
+    author: {
+      id: 2234,
+      name: 'Adam Adamskiy',
+      profile_image: 'https://via.placeholder.com/30x30',
+    },
+  },
+  {
+    id: '7215',
+    title: 'The Worst livecast',
+    status: 0,
+    created_at: 1573167921,
+    duration: 30599,
+    image: 'https://via.placeholder.com/200x320',
+    author: {
+      id: 2234,
+      name: 'Carolina Bellwether',
+      profile_image: 'https://via.placeholder.com/30x30',
+    },
+  },
+];

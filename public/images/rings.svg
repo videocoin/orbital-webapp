@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="1120px" viewBox="0 0 1440 1120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>rings</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50.0085492%" gradientTransform="translate(0.500000,0.500000),scale(0.781316,1.000000),rotate(88.940538),scale(1.000000,1.415227),translate(-0.500000,-0.500000)" id="radialGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#E6E6E6" stop-opacity="0" offset="83.9504051%"></stop>
+            <stop stop-color="#3C355C" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50.0086044%" gradientTransform="translate(0.500000,0.500000),scale(0.778808,1.000000),rotate(88.937126),scale(1.000000,1.415227),translate(-0.500000,-0.500000)" id="radialGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#E6E6E6" stop-opacity="0" offset="83.9504051%"></stop>
+            <stop stop-color="#3C355C" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50.0099368%" gradientTransform="translate(0.500000,0.500000),scale(0.724710,1.000000),rotate(88.857805),scale(1.000000,1.415227),translate(-0.500000,-0.500000)" id="radialGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#E6E6E6" stop-opacity="0" offset="83.9504051%"></stop>
+            <stop stop-color="#3C355C" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50.01053%" gradientTransform="translate(0.500000,0.500000),scale(0.704000,1.000000),rotate(88.824214),scale(1.000000,1.415227),translate(-0.500000,-0.500000)" id="radialGradient-4">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#E6E6E6" stop-opacity="0" offset="83.9504051%"></stop>
+            <stop stop-color="#3C355C" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50.0123253%" gradientTransform="translate(0.500000,0.500000),scale(0.650704,1.000000),rotate(88.727942),scale(1.000000,1.520177),translate(-0.500000,-0.500000)" id="radialGradient-5">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#E6E6E6" stop-opacity="0" offset="87.1172931%"></stop>
+            <stop stop-color="#3C355C" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50%" gradientTransform="translate(0.500000,0.500000),scale(0.594891,1.000000),rotate(90.000000),scale(1.000000,1.677336),translate(-0.500000,-0.500000)" id="radialGradient-6">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#E6E6E6" stop-opacity="0" offset="90.4745566%"></stop>
+            <stop stop-color="#3C355C" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50%" gradientTransform="translate(0.500000,0.500000),scale(0.540404,1.000000),rotate(90.000000),scale(1.000000,1.861287),translate(-0.500000,-0.500000)" id="radialGradient-7">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#E6E6E6" stop-opacity="0" offset="83.7098818%"></stop>
+            <stop stop-color="#3C355C" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Screens/Desktop/Main-(Empty)" transform="translate(0.000000, 0.000000)">
+            <g id="rings" transform="translate(-562.000000, -890.000000)">
+                <ellipse id="Oval" fill="url(#radialGradient-1)" opacity="0.0824265253" transform="translate(1278.720000, 1197.720000) rotate(-30.000000) translate(-1278.720000, -1197.720000) " cx="1278.72" cy="1197.72" rx="1017.36" ry="794.88"></ellipse>
+                <ellipse id="Oval" fill="url(#radialGradient-2)" opacity="0.0708937872" transform="translate(1278.720000, 1196.640000) rotate(-30.000000) translate(-1278.720000, -1196.640000) " cx="1278.72" cy="1196.64" rx="815.4" ry="635.04"></ellipse>
+                <ellipse id="Oval" fill="url(#radialGradient-3)" opacity="0.0593610491" transform="translate(1278.720000, 1197.180000) rotate(-30.000000) translate(-1278.720000, -1197.180000) " cx="1278.72" cy="1197.18" rx="651.24" ry="471.96"></ellipse>
+                <ellipse id="Oval" fill="url(#radialGradient-4)" opacity="0.049361" transform="translate(1278.720000, 1197.180000) rotate(-30.000000) translate(-1278.720000, -1197.180000) " cx="1278.72" cy="1197.18" rx="500" ry="352"></ellipse>
+                <path d="M1279.26,1447.2 C1470.96,1447.2 1662.66,1335.504 1662.66,1197.72 C1662.66,1059.936 1491.00597,948.24 1279.26,948.24 C1067.51403,948.24 895.86,1059.936 895.86,1197.72 C895.86,1335.504 1087.56,1447.2 1279.26,1447.2 Z" id="Oval" stroke="#3C355C" stroke-width="2.7216" fill="url(#radialGradient-5)" opacity="0.036177" transform="translate(1279.260000, 1197.720000) rotate(-30.000000) translate(-1279.260000, -1197.720000) "></path>
+                <ellipse id="Oval" stroke="#3C355C" stroke-width="2.7216" fill="url(#radialGradient-6)" opacity="0.033248" transform="translate(1279.800000, 1197.180000) rotate(-30.000000) translate(-1279.800000, -1197.180000) " cx="1279.8" cy="1197.18" rx="295.92" ry="176.04"></ellipse>
+                <ellipse id="Oval" stroke="#3C355C" stroke-width="2.7216" fill="url(#radialGradient-7)" opacity="0.022994" transform="translate(1279.800000, 1197.180000) rotate(-30.000000) translate(-1279.800000, -1197.180000) " cx="1279.8" cy="1197.18" rx="213.84" ry="115.56"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,27 +1,10 @@
-const baseUrl = process.env.REACT_APP_BASE_API_URL;
-
-export const getApiStreamsUrl = () => {
-  if (baseUrl) {
-    return `${baseUrl}/streams`;
-  } else {
-    return 'https://studio.videocoin.network/api/v1/streams';
-  }
-};
-
-export const getApiWebRTCUrl = () => {
-  if (baseUrl) {
-    return `${baseUrl}/ms/streams/webrtc`;
-  } else {
-    return 'https://studio.videocoin.network/api/v1/ms/streams/webrtc';
-  }
-};
-
 const STREAM_STATUS = {
   PREPARED: 'STREAM_STATUS_PREPARED',
   READY: 'STREAM_STATUS_READY',
 };
-const apiStreamsUrl = getApiStreamsUrl();
-const apiWebRTCUrl = getApiWebRTCUrl();
+const apiStreamsUrl = 'https://studio.dev.videocoin.network/api/v1/streams';
+const apiWebRTCUrl =
+  'https://studio.dev.videocoin.network/api/v1/ms/streams/webrtc';
 
 const request = async (url, options = null) => {
   try {

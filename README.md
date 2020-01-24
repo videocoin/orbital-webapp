@@ -90,8 +90,13 @@ Note: profile id is included above in Firebase remote config.
     `pc.setLocalDescription(offer)`
     5) Send a POST to VideoCoin's webrtc endpoint with the stream id you received back in the very first step and the offer object's
     sdp value.
-    $ curl -X POST -H 'Authorization: Bearer <TOKEN>' -H 'Content-Type: application/json' -d '{"stream_id": stream.id, "sdp": offer.dsp}' https://studio.dev.videocoin.network/api/v1/ms/streams/webrtc
-
+    $ curl -X POST -H 'Authorization: Bearer <TOKEN>' -H 'Content-Type: application/json' -d '{"stream_id": stream.id, "sdp": offer.sdp}' https://studio.dev.videocoin.network/api/v1/ms/streams/webrtc
+    6) From the response to the POST in step 5, get the 'sdp' field value and pass an answer object to the setRemoteDescription method of the peer connection.
+    `const answer = new RTCSessionDescription({
+                         type: 'answer',
+                         sdp: response.sdp
+                     });
+     pc.setRemoteDescription(answer)`
 5) Set an interval that queries stream info until the status field on the stream object is 'STREAM_STATUS_READY'
 `$ curl -X GET -H 'Authorization: Bearer <TOKEN>' https://studio.snb.videocoin.network/api/v1/streams/{stream_id}`
 

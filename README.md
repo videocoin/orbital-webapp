@@ -4,6 +4,11 @@ Orbital is an app that lets you create livecasts on the VideoCoin Network. It sh
 
 Read more about the VideoCoin network API here: https://docs.videocoin.network/
 
+##Install dependencies
+`yarn install`
+
+##Start application on port 3000
+`yarn start`
   
 ## Setup
 The app uses Firebase as its backend and requires a Firebase project set up with a Firebase config object exported from src/firebaseConfig.js.

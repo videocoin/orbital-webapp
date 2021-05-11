@@ -6,7 +6,7 @@
     "firebase": "^7.6.1",
     "hind": "^1.0.0",
     "hls.js": "^0.13.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "prop-types": "^15.7.2",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
@@ -50,7 +50,7 @@
     "eslint-plugin-prettier": "^3.1.1",
     "eslint-plugin-react": "^7.16.0",
     "eslint-plugin-react-hooks": "^2.2.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "prettier": "^1.19.1"
   },
   "prettier": {
